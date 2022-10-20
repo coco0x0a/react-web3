@@ -5,7 +5,7 @@ https://moralis.io/
 
 ### `create dapp server`
 https://admin.moralis.io/dapps/
-coppy serverUrl appId to index.tsx`
+coppy serverUrl,appId to index.tsx`
 
 
 ### `npm start`
